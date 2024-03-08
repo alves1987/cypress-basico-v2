@@ -9,8 +9,6 @@
     "test": "cypress run",
     "test:mobile": "cypress run --config viewportWidth=400 viewportHeight=860"
   },
-  
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wlsf82/cypress-basico-v2.git"
